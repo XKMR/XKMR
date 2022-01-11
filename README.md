@@ -1,4 +1,4 @@
-# it's a me! XKMR!
+# it's me! XKMR!
 <h1>gamer, developer</h1><br/>
 aka: Slayer Panthera - darkHares - kamyargamer000 - XxkamyarxzxX<br/>
 <a href="https://discord.com/channels/@me/745157949122543686">this</a> is my discord dm link.<br/>
