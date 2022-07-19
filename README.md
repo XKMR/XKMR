@@ -5,3 +5,4 @@ aka: Slayer Panthera - darkHares - kamyargamer000 - XxkamyarxzxX<br/>
 <h2>DEV of discord TKPIXEL_bot. open it's profile and add it to your server with <a href="https://discord.com/channels/@me/881865568402149436">this link</a> (you don't need to give it admin perms. it's just a fun bot. and if you can not undrestand persian lang, you can't use it)</h2>
 <br/><br/>
 [![Discord Presence](https://lanyard.cnrad.dev/api/745157949122543686)](https://discord.com/users/745157949122543686)
+
