@@ -7,3 +7,4 @@ aka: Slayer Panthera - darkHares - kamyargamer000 - XxkamyarxzxX<br/>
 
 ![Kamyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=XKMR)]
 
+![google.com](https://www.google.com)
