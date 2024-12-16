@@ -1,6 +1,6 @@
 # it's me! XKMR!
 <h1>back and front end Developer</h1><br/>
-specializing in Javascript for efficient back end to front end connections and faster UI
+<h1>specializing in Javascript</h1>
 <a href="https://discord.com/channels/@me/745157949122543686">this</a> is my discord dm link.<br/>
 <h2>I mostly do experimental stuff</h2>
 <br/><br/>
